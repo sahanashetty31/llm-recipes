@@ -7,8 +7,10 @@ LLM Recipes
 !["Multi-modal On-device"](docs/images/on-device.drawio.png "Multi-modal On-device") 
 
 
+[Discord Server](https://discord.gg/h8ygUwvw)
 
-| Version |Concept | Tech | Status |
+
+| Version |Concept | Status | Tech |
 |---|---|---|---|
 |v0.8| [Quantisation](tutorial/llama.cpp/) | In progress | llama.cpp  | 
 |v0.7| [On-device Mobile](tutorial/android/) | In progress | Android + TF lite  | 
@@ -38,5 +40,4 @@ LLM Recipes
 !["Reconassiance"](python/reconaissance/reconaissance.drawio.png "Reconaissance")
 
 - Upcoming Challenges
-    - Wanddb - HAckerCup - [Oct 16](https://github.com/wandb/aihackercup)
-    - Nvidia Hack AI -[Oct 3](https://hackaichallenge.devpost.com/)
+    - [Hackathons](docs/hackathons.md)
